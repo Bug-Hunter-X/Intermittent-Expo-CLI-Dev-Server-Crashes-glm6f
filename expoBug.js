@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would randomly crash without providing a clear error message in the terminal.  The app would function correctly in the simulator/device, but the dev server would become unresponsive, requiring a manual restart. This was intermittent and difficult to reproduce consistently.
